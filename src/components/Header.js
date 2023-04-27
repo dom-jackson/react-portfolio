@@ -4,10 +4,10 @@ import Nav from './Navigation';
 
 const Header = () => {
   return (
-    <header>
+    <div>
       <h1>Dominic Jackson</h1>
       <Nav />
-    </header>
+    </div>
   );
 };
 
